@@ -1,7 +1,7 @@
 {
-  "name": "@webeleon/npm-package-starter-typescript",
-  "version": "0.0.7",
-  "description": "starter npm package using typescript",
+  "name": "@webeleon/myboat-api-client",
+  "version": "0.0.0",
+  "description": "",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
   "scripts": {
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Webeleon/typecript-npm-package-starter"
+    "url": "git+https://github.com/Webeleon/myboat-types"
   },
   "bugs": {
-    "url": "https://github.com/Webeleon/typecript-npm-package-starter/issues"
+    "url": "https://github.com/Webeleon/myboat-types/issues"
   },
   "contributors": [
     {
@@ -29,10 +29,8 @@
     }
   ],
   "keywords": [
-    "project starter",
-    "webeleon",
-    "npm",
-    "typescript"
+    "types",
+    "myboat"
   ],
   "author": "Julien Prugne<juliene@webeleon.dev>",
   "license": "MIT",

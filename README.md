@@ -1,4 +1,4 @@
-# Webeleon npm package starter
+# My boat types
 
 ## Install
 

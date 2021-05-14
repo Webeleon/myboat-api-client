@@ -3,5 +3,5 @@
 ## Install
 
 ```
-npm i package-name
+npm i @webeleon/myboat-api-client 
 ```

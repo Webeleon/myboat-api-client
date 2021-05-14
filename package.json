@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Webeleon/myboat-types"
+    "url": "git+https://github.com/Webeleon/myboat-api-client"
   },
   "bugs": {
-    "url": "https://github.com/Webeleon/myboat-types/issues"
+    "url": "https://github.com/Webeleon/myboat-api-client/issues"
   },
   "contributors": [
     {

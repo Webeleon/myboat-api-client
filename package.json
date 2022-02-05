@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "node-fetch": "2.6.7",
-    "query-string": "7.1.0"
+    "query-string": "7.1.1"
   },
   "lint-staged": {
     "*.{ts}": "prettier --write"
